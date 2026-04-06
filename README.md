@@ -14,7 +14,7 @@
 
 ### 🔬 Undergraduate Research Student, **[AIV Lab](https://aivlab.pages.dev/)** (Sep 2025 – Present)
 - Dankook University
-- Advisor: **Boeun Kim** ([Faculty](https://aivlab.pages.dev/faculty))
+- Advisor professor: **[Boeun Kim](https://aivlab.pages.dev/faculty)**
 - Research Area: **Computer Vision, AI, 3D Pose Estimation**
 
 
