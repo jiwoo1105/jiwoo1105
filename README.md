@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 JIwoo's Github
 
-<!--
-**jiwoo1105/jiwoo1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Email](https://img.shields.io/badge/email-xxx-red)](mailto:xxx)
+[![CV](링크)](링크)
+[![LinkedIn](링크)](링크)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education & Research Experience
+
+## 📝 Publications
+
+## 🧠 Patents
+
+## 🏆 Awards & Scholars
+
+## 🛠 Skills (선택)
+
+## 📂 Projects (선택)
