@@ -1,16 +1,26 @@
 # 👋 JIwoo's Github
 
 [![Email](https://img.shields.io/badge/email-xxx-red)](mailto:xxx)
-[![CV](링크)](링크)
-[![LinkedIn](링크)](링크)
+[![CV](링크)]
+[![LinkedIn](링크)]
 ![header](https://capsule-render.vercel.app/api?type=venom&color=F69AC2&height=300&section=header&text=jiwoo&fontSize=70&animation=twinkling)
 ---
 
 ## 🎓 Education & Research Experience
 
+### 🏫 Dankook University, Yongin (Mar 2021 – Feb 2027)
+- **Bachelor of Science in Software Engineering**
+- **Graduated First Class Honor**
+
+### 🔬 Undergraduate Research Student, **[AIV Lab](https://aivlab.pages.dev/)** (Sep 2025 – Present)
+- Dankook University
+- Advisor: **Boeun Kim** ([Faculty](https://aivlab.pages.dev/faculty))
+- Research Area: **Computer Vision, AI, 3D Pose Estimation**
+
+
 ## 📝 Publications
 
-## 🧠 Patents
+
 
 ## 🏆 Awards & Scholars
 
