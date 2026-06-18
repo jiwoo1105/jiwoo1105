@@ -24,11 +24,16 @@
 - **다개체 상호작용 환경에서의 개인화된 관계적 모션 생성 연구** - NRF
 - **단안 영상 기반 축구 드리블 동작 분석 시스템**
     - Mediapipe, SAM2, Depth Anything V2 기반 자세 평가 파이프라인 개발
-      
 
-## 🏆 Awards & Scholars
 
-## 🛠 Skills (선택)
+## 📂 Projects
+
+| 프로젝트 | 기간 | 설명 | 기술 | 성과 / 링크 |
+|---|---|---|---|---|
+| **Dan Zzan (단짠)** | 2026.03 – 2026.06 | 총학생회와 협업하여 **실제 축제에서 운영**한 티켓팅·공연·부스·공지 통합 서비스 <br> **Redis + Lua Script 선착순 티켓팅**, **JWT 학번 인증** 개발 <br> **대학 최초 페이스사인 도입** | Spring Boot, Redis, Kafka, MySQL, React, TypeScript, NHN Cloud | 동시접속 **4,500명** <br> 3,500장 **1분 매진** <br> 중복발급 **ZERO** <br> k6 **10,000VU** 부하 테스트 통과 <br> [GitHub](https://github.com/DKU-Dan-Zzan) |
+| **축구 드리블 동작 분석** | 2025.03 – 2025.06 | **단안 카메라 영상** 기반 축구 드리블 자세 정량 평가 시스템 <br> **공 터치 자동 감지** 및 어깨/골반 회전각, 헤드업 각도 분석 | Python, Mediapipe, SAM2, YOLOv8, OpenCV | 단일 카메라 영상만으로 드리블 자세 정량 평가 자동화 <br> [GitHub](https://github.com/jiwoo1105/soccer_motion_analysis) |
+
+## 🛠 Skills
 ### AI / Vision
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-F04D2F?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -43,10 +48,3 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 📂 Projects
-
-| 프로젝트 | 기간 | 설명 | 기술 | 성과 / 링크 |
-|---|---|---|---|---|
-| **Dan Zzan (단짠)** | 2026.03 – 2026.06 | 총학생회와 협업하여 **실제 축제에서 운영**한 티켓팅·공연·부스·공지 통합 서비스 <br> **Redis + Lua Script 선착순 티켓팅**, **JWT 학번 인증** 개발 <br> **대학 최초 페이스사인 도입** | Spring Boot, Redis, Kafka, MySQL, React, TypeScript, NHN Cloud | 동시접속 **4,500명** <br> 3,500장 **1분 매진** <br> 중복발급 **ZERO** <br> k6 **10,000VU** 부하 테스트 통과 <br> [GitHub](https://github.com/DKU-Dan-Zzan) |
-| **축구 드리블 동작 분석** | 2025.03 – 2025.06 | **단안 카메라 영상** 기반 축구 드리블 자세 정량 평가 시스템 <br> **공 터치 자동 감지** 및 어깨/골반 회전각, 헤드업 각도 분석 | Python, Mediapipe, SAM2, YOLOv8, OpenCV | 단일 카메라 영상만으로 드리블 자세 정량 평가 자동화 <br> [GitHub](https://github.com/jiwoo1105/soccer_motion_analysis) |
