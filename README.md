@@ -26,7 +26,7 @@
     - Mediapipe, SAM2, Depth Anything V2 기반 자세 평가 파이프라인 개발
 
 
-## 📂 Projects
+## 📂 Main Projects
 
 | 프로젝트 | 기간 | 설명 | 기술 | 성과 / 링크 |
 |---|---|---|---|---|
