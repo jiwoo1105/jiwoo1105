@@ -18,13 +18,28 @@
 
 요즘은 **AIV Lab**에서 연구하면서, 카메라 영상만으로 사람의 움직임을 이해하고 수치화하는 문제에 빠져 있습니다.
 
-| 🎓 Education | 🔬 Research |
-|---|---|
-| **단국대학교 (Dankook University)** | **[AIV Lab](https://aivlab.pages.dev/)** |
-| 소프트웨어학과 학사 과정 | 학부 연구생 (Undergraduate Researcher) |
-| 2021.03 ~ 현재 | 2025.09 ~ 현재 |
-| Graduated First Class Honor | Advisor: **[Boeun Kim](https://aivlab.pages.dev/faculty)** |
-| | Research: **Computer Vision, AI, 3D Pose Estimation** |
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🎓 Education
+- **단국대학교 (Dankook University)**
+- 소프트웨어학과 학사 과정
+- 2021.03 ~ 현재
+- Graduated First Class Honor
+
+</td>
+<td valign="top" width="50%">
+
+### 🔬 Research
+- **[AIV Lab](https://aivlab.pages.dev/)** — 학부 연구생
+- Advisor: **[Boeun Kim](https://aivlab.pages.dev/faculty)**
+- 2025.09 ~ 현재
+- Area: **Computer Vision, AI, 3D Pose Estimation**
+
+</td>
+</tr>
+</table>
 
 **Research Activities**
 - **다개체 상호작용 환경에서의 개인화된 관계적 모션 생성 연구** — NRF
