@@ -41,4 +41,8 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📂 Projects (선택)
+## 📂 Projects
+
+| 프로젝트 | 기간 | 설명 | 기술 | 성과 / 링크 |
+|---|---|---|---|---|
+| **Dan Zzan (단짠)** | 2026.03 – 2026.06 | 단국대 축제 올인원 웹앱 개발. Spring Security 기반 JWT 회원 인증 체계 설계, 단국대 포털 크롤링 학번 인증·로그인·회원가입 구현. Redis 대기열 + Lua Script 원자적 선착순 처리 기반 티켓 예매 시스템 개발. 대학 최초 네이버 페이스사인 얼굴 인증 연동으로 양도·대리 입장 원천 차단. | Spring Boot, Redis, Kafka, MySQL, React, TypeScript, NHN Cloud, Docker | 동시접속 **4,500명**, 3,500장 **1분 매진**, 중복발급 **ZERO**. k6 10,000VU 부하 테스트 정합성·순서 보장 통과. [GitHub](https://github.com/DKU-Dan-Zzan) |
