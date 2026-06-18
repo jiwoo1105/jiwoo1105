@@ -41,10 +41,11 @@
 </tr>
 </table>
 
-**Research Activities**
+---
+
+## 🚀 Research Projects & Activities
 - **다개체 상호작용 환경에서의 개인화된 관계적 모션 생성 연구** — NRF
 - **단안 영상 기반 축구 드리블 동작 분석 시스템** — Mediapipe, SAM2, Depth Anything V2
-
 
 ## 📂 Main Projects
 
