@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-**Computer Vision / AI** 쪽을 주로 하고 있고, 지금은 **[AIV Lab](https://aivlab.pages.dev/)** 에서 **3D Pose Estimation**과 **VLM** 관련 연구를 하고 있습니다.
+**Computer Vision / AI** 쪽을 주로 하고 있고, 지금은 **[AIV Lab](https://aivlab.pages.dev/)** 에서 **3D Pose Estimation**과 **Computer Vision** 관련 연구를 하고 있습니다.
 
 카메라 영상 하나로 사람의 자세를 추정하고, 움직임을 수치로 바꿔서 분석하는 게 요즘 가장 재밌는 주제입니다. 축구 드리블 동작을 자동으로 평가하는 시스템을 만들기도 했고, **YOLO Fine-tuning** 기반 객체 탐지 파이프라인도 직접 설계해 봤습니다.
 
