@@ -44,7 +44,9 @@
 
 ## 🚀 Research Projects & Activities
 - **다개체 상호작용 환경에서의 개인화된 관계적 모션 생성 연구** — NRF
-- **단안 영상 기반 축구 드리블 동작 분석 시스템** — Mediapipe, SAM2, Depth Anything V2
+- **단안 영상 기반 축구 드리블 동작 분석 시스템**
+    - Mediapipe, SAM2, Depth Anything V2 기반 자세 평가 파이프라인 개발
+    - 공 터치 자동 감지 및 어깨/골반 회전각, 헤드업 각도 정량 분석
 
 ## 📂 Main Projects
 
