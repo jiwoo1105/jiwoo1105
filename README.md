@@ -17,7 +17,9 @@
 - Advisor professor: **[Boeun Kim](https://aivlab.pages.dev/faculty)**
 - Research Area: **Computer Vision, AI, 3D Pose Estimation**
 
-
+## 🚀 Research Projects & Activities
+- **다개체 상호작용 환경에서의 개인화된 관계적 모션 생성 연구** - NRF
+- **ㅋ
 ## 📝 Publications
 
 
