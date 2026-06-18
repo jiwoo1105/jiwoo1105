@@ -2,9 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=230&section=header&text=Jiwoo%20Park&fontSize=50&fontAlignY=35&desc=Computer%20Vision%20%7C%20AI%20Engineer&descSize=20&descAlignY=55&animation=fadeIn&fontColor=ffffff)
 
-| | |
-|:---:|:---:|
-| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiwoo1105) | [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xxx) |
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiwoo1105)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:psskej00@gmail.com)
 
 </div>
 
@@ -12,11 +11,15 @@
 
 ## 👋 About Me
 
-**Computer Vision / AI** 쪽을 주로 하고 있고, 지금은 **[AIV Lab](https://aivlab.pages.dev/)** 에서 **3D Pose Estimation**과 **Computer Vision** 관련 연구를 하고 있습니다.
+**Computer Vision**과 **AI**를 연구하는 엔지니어입니다. 현재 **[AIV Lab](https://aivlab.pages.dev/)** 에서 **3D Pose Estimation**과 **Computer Vision** 연구를 수행하고 있으며, 영상 속 움직임과 상태를 **정량적인 데이터로 변환하여 분석**하는 문제에 관심을 가지고 있습니다.
 
-카메라 영상 하나로 사람의 자세를 추정하고, 움직임을 수치로 바꿔서 분석하는 게 요즘 가장 재밌는 주제입니다. 축구 드리블 동작을 자동으로 평가하는 시스템을 만들기도 했고, **YOLO Fine-tuning** 기반 객체 탐지 파이프라인도 직접 설계해 봤습니다.
+특히 단순히 객체를 탐지하거나 자세를 추정하는 것을 넘어, 영상으로부터 **의미 있는 정보를 추출**하고 이를 실제 **의사결정에 활용할 수 있는 형태로 해석**하는 연구를 지향하고 있습니다.
 
-백엔드 경험도 있습니다. **Redis + Kafka 기반 티켓팅 시스템**을 설계해서 실제 대학 축제에서 **실사용자 6,000명 이상**을 끌어들인 서비스를 운영했습니다.
+이를 위해 **단일 카메라 기반 3D Human Pose Estimation**, 동작 분석, 객체 탐지 등 다양한 Computer Vision 문제를 다루고 있으며, **축구 드리블 동작 자동 평가 시스템**과 **YOLO 기반 객체 탐지 파이프라인** 구축 프로젝트를 수행한 경험이 있습니다.
+
+또한 **Redis**와 **Kafka**를 활용한 대규모 티켓팅 시스템을 설계·개발하여 실제 **6,000명 이상의 사용자**가 이용한 서비스를 운영했습니다. AI 연구뿐 아니라 **실제 서비스 환경에서 안정적으로 동작하는 시스템**을 설계하고 구현하는 역량도 함께 갖추고 있습니다.
+
+궁극적으로는 영상으로부터 얻은 정보를 **실제 가치 있는 의사결정으로 연결하는 AI 엔지니어**를 목표로 하며, Computer Vision 연구와 서비스 개발을 아우르는 문제 해결에 지속적으로 도전하고 있습니다.
 
 <table>
 <tr>
