@@ -48,5 +48,5 @@
 
 | 프로젝트 | 기간 | 설명 | 기술 | 성과 / 링크 |
 |---|---|---|---|---|
-| **Dan Zzan (단짠)** | 2026.03 – 2026.06 | 총학생회와 협업하여 실제 축제에서 운영한 티켓팅·공연·부스·공지 통합 서비스. Redis + Lua Script 선착순 티켓팅, JWT 학번 인증 개발. $\textcolor{#04c75b}{\textsf{대학 최초 네이버페이 페이스사인 연동}}$ | Spring Boot, Redis, Kafka, MySQL, React, TypeScript, NHN Cloud | 동시접속 **4,500명**, 3,500장 **1분 매진**, 중복발급 **ZERO**. k6 10,000VU 부하 테스트 통과. [GitHub](https://github.com/DKU-Dan-Zzan) |
-| **축구 드리블 동작 분석** | 2025.03 – 2025.06 | 단안 카메라 영상 기반 축구 드리블 자세 정량 평가 시스템. 공 터치 자동 감지 및 어깨/골반 회전각, 헤드업 각도 분석. | Python, Mediapipe, SAM2, YOLOv8, OpenCV | 캡스톤디자인 [GitHub](https://github.com/jiwoo1105/soccer_motion_analysis) |
+| **Dan Zzan (단짠)** | 2026.03 – 2026.06 | 총학생회와 협업하여 **실제 축제에서 운영**한 티켓팅·공연·부스·공지 통합 서비스. **Redis + Lua Script 선착순 티켓팅**, **JWT 학번 인증** 개발. **대학 최초 네이버페이 페이스사인 연동**. | Spring Boot, Redis, Kafka, MySQL, React, TypeScript, NHN Cloud | 동시접속 **4,500명**, 3,500장 **1분 매진**, 중복발급 **ZERO**. k6 **10,000VU** 부하 테스트 통과. [GitHub](https://github.com/DKU-Dan-Zzan) |
+| **축구 드리블 동작 분석** | 2025.03 – 2025.06 | **단안 카메라 영상** 기반 축구 드리블 자세 정량 평가 시스템. **공 터치 자동 감지** 및 어깨/골반 회전각, 헤드업 각도 분석. | Python, Mediapipe, SAM2, YOLOv8, OpenCV | 캡스톤디자인 [GitHub](https://github.com/jiwoo1105/soccer_motion_analysis) |
