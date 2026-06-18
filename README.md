@@ -26,7 +26,6 @@
 - **단국대학교 (Dankook University)**
 - 소프트웨어학과 학사 과정
 - 2021.03 ~ 현재
-- Graduated First Class Honor
 
 </td>
 <td valign="top" width="50%">
