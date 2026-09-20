@@ -45,24 +45,52 @@
 
 ---
 
-## 🚀 Research Projects & Activities
-- **비정형 영상 기반 로봇 학습 데이터 구축 파이프라인 — ETRI 과제**
-    - **2026.07 – 2026.11 (진행 중)** · 단국대학교 **AIV Lab**에서 수행하는 한국전자통신연구원(ETRI) 연구 과제
-    - 비정형 스포츠·공연 영상을 분석해 행동 구간과 인물별 3D 모션을 추출하고, 동작 설명을 연결하는 데이터 구축 파이프라인 연구
-    - CoMotion·Multi-HMR 2 기반 메시 복원 비교, MotionGPT 기반 모션 캡셔닝 및 지시문 비교 실험
-    - 현재 사람의 3D 모션·설명 쌍을 구축하며, 로봇 적용에는 로봇 관절 구조에 맞춘 모션 변환 및 추가 검증 필요
-    - Elice Cloud GPU 환경에서 모델별 설치·추론 스크립트 정리 및 재현 가능한 실험 환경 구축
-- **다개체 상호작용 환경에서의 개인화된 관계적 모션 생성 연구** — NRF
-    - 여러 사람이 상호작용하는 장면에서 개인별 특성을 반영한 모션 생성 연구
-    - 한국연구재단(NRF) 지원 과제 참여
-- **단안 영상 기반 축구 드리블 동작 분석 시스템**
-    - Mediapipe, SAM2, Depth Anything V2 기반 자세 평가 파이프라인 개발
-    - 공 터치 자동 감지 및 어깨/골반 회전각, 헤드업 각도 정량 분석
+## 🏆 Achievements
+
+### 🥇 Awards
+
+> **Conquer Health: 의과학 특화 파운데이션 모델 해커톤 — 벤치마크 상** 🏆<br>**HealthBench 기반 벤치마크 평가 최고점 · AIM 팀**<br>루닛 주최 · 2026.08.22<br>L2-preview 기반 의료 대화 시스템의 추론 파이프라인 최적화: 답변 커버리지 개선, 선택적 MCP 조회, 시간·토큰 예산 관리<br>[프로젝트](https://github.com/Hackathon-AIM/health-conquer-submission) · [상장 PDF](assets/credentials/conquer-health-benchmark-award.pdf) · [수상 기사](https://www.aitimes.kr/news/articleView.html?idxno=41599)
+
+### 📜 Certifications
+
+> **SQLD (SQL 개발자)**<br>한국데이터산업진흥원 · 2025.06.27 취득<br>[자격증 확인](assets/credentials/sqld-public.pdf)
+
+### 🎓 Programs & Training
+
+> **Generative AI Essentials on AWS — 수료**<br>AWS Training and Certification · 2026.07.22 · 1일 과정<br>[수료증 PDF](assets/credentials/aws-generative-ai-essentials.pdf)
+
+> **Agentic AI Foundations — 수료**<br>AWS Training and Certification · 2026.07.23 · 480분 과정<br>[수료증 PDF](assets/credentials/aws-agentic-ai-foundations.pdf)
+
+<details>
+<summary><strong>📎 수상 · 자격 · 교육 증빙 모아보기</strong></summary>
+
+수상·자격·교육 이력은 첨부 증빙을 기준으로 작성했습니다. AWS 두 과정은 교육 수료입니다. SQLD 공개 사본에서는 생년월일·자격번호·사진·하단 검증 코드를 가렸습니다.
+
+**Conquer Health — 벤치마크 상**
+
+<a href="assets/credentials/conquer-health-benchmark-award.pdf"><img src="assets/credentials/conquer-health-benchmark-award.png" alt="AIM 팀 Conquer Health 벤치마크 상장" width="420"></a>
+
+**SQLD — 국가공인 SQL 개발자**
+
+<a href="assets/credentials/sqld-public.pdf"><img src="assets/credentials/sqld-public.png" alt="박지우 SQLD 자격증 공개 사본" width="420"></a>
+
+**AWS — Generative AI Essentials on AWS**
+
+<a href="assets/credentials/aws-generative-ai-essentials.pdf"><img src="assets/credentials/aws-generative-ai-essentials.png" alt="Generative AI Essentials on AWS 수료증" width="640"></a>
+
+**AWS — Agentic AI Foundations**
+
+<a href="assets/credentials/aws-agentic-ai-foundations.pdf"><img src="assets/credentials/aws-agentic-ai-foundations.png" alt="Agentic AI Foundations 수료증" width="640"></a>
+
+</details>
+
+---
 
 ## 📂 Main Projects
 
 | 프로젝트 | 기간 | 설명 | 기술 | 성과 / 링크 |
 |---|---|---|---|---|
+| **Conquer Health · AIM** 🏆 | 2026.08.21 – 08.22 | **Lunit L2-preview 기반 의료 대화 시스템**<br>질문 커버리지·멀티턴 문맥 보강, 선택적 MCP 조회, 시간·토큰 예산 및 출력 검증 최적화 | Python, FastAPI, httpx, MCP, Docker | **벤치마크 상 · HealthBench 평가 최고점**<br>모델 가중치 변경 없이 추론 파이프라인 최적화<br>[GitHub](https://github.com/Hackathon-AIM/health-conquer-submission) · [상장](assets/credentials/conquer-health-benchmark-award.pdf) |
 | **비정형 영상 기반 로봇 학습 데이터 구축 파이프라인** | **2026.07 – 2026.11**<br>진행 중 | ![한국전자통신연구원(ETRI) 연구과제](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%ED%86%B5%EC%8B%A0%EC%97%B0%EA%B5%AC%EC%9B%90%28ETRI%29_%EC%97%B0%EA%B5%AC%EA%B3%BC%EC%A0%9C-0064A0?style=flat-square)<br><br>비정형 스포츠·공연 영상을 분석해 행동 구간과 인물별 3D 모션을 추출하고 동작 설명을 연결<br>로봇 학습에 활용할 사람 동작 데이터 구축 연구 | Python, PyTorch, OpenCV, FFmpeg, CoMotion, Multi-HMR 2, MotionGPT | 원본·크롭 입력의 메시 복원 비교 및 모션 캡셔닝 실험<br>모델별 환경 구축·추론 스크립트 정리<br>[GitHub](https://github.com/DKU-AIM/video-motion-pipeline) |
 | **Dan Zzan (단짠)** | 2025.12 – 2026.05 | 총학생회와 협업하여 **실제 축제에서 운영**한 티켓팅·공연·부스·공지 통합 서비스 <br> **Redis + Lua Script 선착순 티켓팅**, **JWT 학번 인증** 개발 <br> ![대학최초](https://img.shields.io/badge/대학_최초_네이버_페이스사인_도입-04c75b?style=flat-square) | Spring Boot, Redis, Kafka, MySQL, React, TypeScript, NHN Cloud | **실 운영**: 동시접속 4,500명, 3,500장 1분 매진, 중복발급 ZERO <br> **부하 테스트**: k6 10,000VU 통과 <br> [GitHub](https://github.com/DKU-Dan-Zzan) |
 | **넙치 질병 조기 탐지 시스템** | 2026.03 – 2026.06 | **YOLO26 Fine-tuning** 기반 3-Stage 파이프라인 (탐지→분류→병변) <br> 7종 질병 증상 자동 분류 + 위험도 알림 시스템 <br> AIHub 넙치 질병 데이터 **48,000장** 학습 | Python, YOLO26, PyTorch, OpenCV, Flutter, FastAPI | Det mAP50: 0.445, Cls Acc: 83.99% <br> 7클래스 증상 분류 + 질병 대응 가이드 자동 생성 <br> [GitHub](https://github.com/jiwoo1105/fish-disease-detection) |
