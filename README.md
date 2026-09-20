@@ -46,6 +46,11 @@
 ---
 
 ## 🚀 Research Projects & Activities
+- **비정형 동영상 기반 생성형 모션 학습 데이터셋 전처리 및 자동 어노테이션 파이프라인 구축 — ETRI 과제**
+    - **2026.07 – 2026.11 (진행 중)** · 단국대학교 **AIV Lab**에서 수행하는 한국전자통신연구원(ETRI) 연구 과제
+    - 스포츠·공연 영상의 행동 구간 탐색과 인물별 클리핑·크롭, 3D 모션 추출 및 설명문 생성 파이프라인 연구
+    - CoMotion·Multi-HMR 2 기반 메시 복원 비교, MotionGPT 기반 모션 캡셔닝 및 지시문 비교 실험
+    - Elice Cloud GPU 환경에서 모델별 설치·추론 스크립트 정리 및 재현 가능한 실험 환경 구축
 - **다개체 상호작용 환경에서의 개인화된 관계적 모션 생성 연구** — NRF
     - 여러 사람이 상호작용하는 장면에서 개인별 특성을 반영한 모션 생성 연구
     - 한국연구재단(NRF) 지원 과제 참여
@@ -57,6 +62,7 @@
 
 | 프로젝트 | 기간 | 설명 | 기술 | 성과 / 링크 |
 |---|---|---|---|---|
+| **ETRI 모션 데이터셋 구축** | **2026.07 – 2026.11**<br>진행 중 | **단국대학교 AIV Lab · 한국전자통신연구원(ETRI) 과제**<br>비정형 스포츠·공연 영상 기반 생성형 모션 학습 데이터셋 전처리 및 자동 어노테이션 파이프라인 연구<br>행동 구간 탐색, 인물별 크롭, 3D 모션 추출 및 모션 캡셔닝 | Python, PyTorch, OpenCV, FFmpeg, CoMotion, Multi-HMR 2, MotionGPT, Elice Cloud | 원본·크롭 입력의 메시 복원 비교 및 모션 캡셔닝 실험<br>모델별 환경 구축·추론 스크립트 정리<br>[팀 GitHub](https://github.com/DKU-AIM/video-motion-pipeline) (비공개) |
 | **Dan Zzan (단짠)** | 2025.12 – 2026.05 | 총학생회와 협업하여 **실제 축제에서 운영**한 티켓팅·공연·부스·공지 통합 서비스 <br> **Redis + Lua Script 선착순 티켓팅**, **JWT 학번 인증** 개발 <br> ![대학최초](https://img.shields.io/badge/대학_최초_네이버_페이스사인_도입-04c75b?style=flat-square) | Spring Boot, Redis, Kafka, MySQL, React, TypeScript, NHN Cloud | **실 운영**: 동시접속 4,500명, 3,500장 1분 매진, 중복발급 ZERO <br> **부하 테스트**: k6 10,000VU 통과 <br> [GitHub](https://github.com/DKU-Dan-Zzan) |
 | **넙치 질병 조기 탐지 시스템** | 2026.03 – 2026.06 | **YOLO26 Fine-tuning** 기반 3-Stage 파이프라인 (탐지→분류→병변) <br> 7종 질병 증상 자동 분류 + 위험도 알림 시스템 <br> AIHub 넙치 질병 데이터 **48,000장** 학습 | Python, YOLO26, PyTorch, OpenCV, Flutter, FastAPI | Det mAP50: 0.445, Cls Acc: 83.99% <br> 7클래스 증상 분류 + 질병 대응 가이드 자동 생성 <br> [GitHub](https://github.com/jiwoo1105/fish-disease-detection) |
 | **축구 드리블 동작 분석** | 2025.11 – 2026.06 | **단안 카메라 영상** 기반 축구 드리블 자세 정량 평가 시스템 <br> **공 터치 자동 감지** 및 어깨/골반 회전각, 헤드업 각도 분석 | Python, Mediapipe, SAM2, YOLOv8, OpenCV | 단일 카메라 영상만으로 드리블 자세 정량 평가 자동화 <br> [GitHub](https://github.com/jiwoo1105/soccer_motion_analysis) |
