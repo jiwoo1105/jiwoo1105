@@ -55,7 +55,7 @@
 >
 > **주요 구현**<br>• 질문의 각 요구에 답하도록 답변 커버리지와 멀티턴 문맥 보강<br>• 공식 데이터가 필요한 질문에 선택적 MCP 조회 적용<br>• 시간·토큰 예산 관리와 출력 검증으로 답변 누락·잘림을 줄이는 처리 구현
 >
-> **기술** · Python, FastAPI, MCP, Docker<br>[프로젝트](https://github.com/Hackathon-AIM/health-conquer-submission) · [성능 개선 기록](https://github.com/Hackathon-AIM/health-conquer-submission/blob/main/docs/performance.md) · [상장 PDF](assets/credentials/conquer-health-benchmark-award.pdf) · [수상 기사](https://www.aitimes.kr/news/articleView.html?idxno=41599)
+[프로젝트](https://github.com/Hackathon-AIM/health-conquer-submission) · [성능 개선 기록](https://github.com/Hackathon-AIM/health-conquer-submission/blob/main/docs/performance.md) · [상장 PDF](assets/credentials/conquer-health-benchmark-award.pdf) · [수상 기사](https://www.aitimes.kr/news/articleView.html?idxno=41599)
 
 ### 📜 Certifications
 
