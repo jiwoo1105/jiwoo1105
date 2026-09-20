@@ -49,16 +49,13 @@
 
 ### 🏆 Awards
 
-> **Conquer Health: 의과학 특화 파운데이션 모델 해커톤 — 벤치마크 상** 🥇<br>**HealthBench 기반 벤치마크 평가 최고점 (루닛 주최)**
+> **🥇 Conquer Health 해커톤 벤치마크 상 (루닛 주최)**<br>의료 AI 챗봇 추론 최적화로 HealthBench 평가 최고점 달성
 >
-> **의료 AI 상담 챗봇 및 L2 추론 최적화**<br>Lunit L2-preview 기반 의료 대화 시스템을 개발하고, 모델 가중치 변경 없이 추론 파이프라인을 최적화했습니다.
+> Lunit L2-preview 기반 의료 대화 시스템을 개발하고, 모델 가중치 변경 없이 추론 파이프라인을 최적화했습니다.
 >
-> **주요 구현**<br>• 질문의 각 요구에 답하도록 답변 커버리지와 멀티턴 문맥 보강<br>• 공식 데이터가 필요한 질문에 선택적 MCP 조회 적용<br>• 시간과 토큰 예산 관리와 출력 검증으로 답변 누락과 잘림을 줄이는 처리 구현
+> **주요 구현**<br>• 질문의 각 요구에 답하도록 답변 커버리지와 멀티턴 문맥 보강<br>• 공식 데이터가 필요한 질문에 선택적 MCP 조회 적용<br>• 시간과 토큰 예산을 관리하고 출력을 검증해 답변 누락과 잘림을 줄이는 처리 구현
 >
-[프로젝트](https://github.com/Hackathon-AIM/health-conquer-submission)<br>
-[성능 개선 기록](https://github.com/Hackathon-AIM/health-conquer-submission/blob/main/docs/performance.md)<br>
-[상장 PDF](assets/credentials/conquer-health-benchmark-award.pdf)<br>
-[수상 기사](https://www.aitimes.kr/news/articleView.html?idxno=41599)
+[프로젝트](https://github.com/Hackathon-AIM/health-conquer-submission) &nbsp; | &nbsp; [성능 개선 기록](https://github.com/Hackathon-AIM/health-conquer-submission/blob/main/docs/performance.md) &nbsp; | &nbsp; [상장 PDF](assets/credentials/conquer-health-benchmark-award.pdf) &nbsp; | &nbsp; [수상 기사](https://www.aitimes.kr/news/articleView.html?idxno=41599)
 
 ### 📜 Certifications
 
@@ -126,7 +123,7 @@
 
 <div align="center">
 
-![Jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwoo1105&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoo1105&layout=compact&theme=transparent&hide_border=true)
+[GitHub 활동](https://github.com/jiwoo1105?tab=overview) &nbsp; | &nbsp; [전체 저장소](https://github.com/jiwoo1105?tab=repositories)
 
 </div>
+
