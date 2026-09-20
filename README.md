@@ -123,7 +123,7 @@
 
 <div align="center">
 
-[GitHub 활동](https://github.com/jiwoo1105?tab=overview) &nbsp; | &nbsp; [전체 저장소](https://github.com/jiwoo1105?tab=repositories)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jiwoo1105&theme=tokyonight&hide_border=true)](https://github.com/jiwoo1105?tab=overview)
 
 </div>
 
